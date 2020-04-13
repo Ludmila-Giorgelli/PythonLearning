@@ -1,0 +1,4 @@
+# ignoring all pycharm configuration files 
+.idea*
+
+
