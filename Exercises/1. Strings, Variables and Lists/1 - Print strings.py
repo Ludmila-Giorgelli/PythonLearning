@@ -19,3 +19,8 @@ print(name)
 # day = "Sunday"
 # stuff_in_string = "Shepherd %s is on duty on day %s" % (shepherd, day)
 # print(stuff_in_string)
+
+# Code for (D) goes here
+
+name = input("Tell me your name")
+print("Hello", name)
