@@ -8,3 +8,4 @@ TIP: This is called "String formatting" and there's plenty of ways to use a vari
 
 Bonus Points if you use the 3 methods mentioned on that link :)
 
+D) Ask the user for their name using the `input` function and then print a message that says `Hello, [name]`
