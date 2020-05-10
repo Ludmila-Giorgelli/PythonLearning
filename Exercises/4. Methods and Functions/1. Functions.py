@@ -72,3 +72,17 @@
 # guessRandomNumber(1, 2)
 
 
+# Code for 4.1.3
+
+# import time
+#
+#
+# def countdown(num: int):
+#
+#     for x in range(num):
+#         time.sleep(1)
+#         print(num - x)
+#
+#
+# countdown(10)
+
